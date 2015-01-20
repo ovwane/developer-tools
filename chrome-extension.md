@@ -4,6 +4,9 @@
 ### Axure RP Extension for Chrome
 > An extension that allows local viewing of Axure RP prototypes from Google Chrome.
 
+### ColorZilla
+> Advanced Eyedropper, Color Picker, Gradient Generator and other colorful goodies
+
 ### Chrome Sniffer Plus
 > 探测当前网页正在使用的开源软件或者js类库，web开发者必备神器。
 
