@@ -42,3 +42,6 @@
 
 ### CSS3 Generator
 > CSS3 generator is a free online tool to experiment with CSS3 properties and generate the stylesheet
+
+### GitHub Awesome Autocomplete
+> Add instant search capabilities to GitHub's search bar.
