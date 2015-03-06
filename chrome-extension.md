@@ -45,3 +45,6 @@
 
 ### GitHub Awesome Autocomplete
 > Add instant search capabilities to GitHub's search bar.
+
+### Google 类似网页
+> 查找与您当前所浏览网页类似的网页
