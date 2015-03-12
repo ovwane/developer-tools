@@ -42,3 +42,4 @@
 * Laravel 4 Blade Highlighter    	//提供 Blade 关键字高亮
 * SublimeLinter + SublimeLinter-php : 	//PHP错误提示
 * phpfmt 				//格式化PHP代码,对齐代码
+* GitSavvy				//Full git and GitHub integration with Sublime Text 3.
