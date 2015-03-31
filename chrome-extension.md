@@ -27,6 +27,7 @@
 
 ### EditThisCookie
 > EditThisCookie是一个cookie管理器。您可以添加，删除，编辑，搜索，锁定和屏蔽cookies
+
 ### Proxy SwitchySharp
 > 轻松快捷地管理和切换多个代理设置。基于 "Proxy Switchy!" 和 "SwitchyPlus" 开发。
 
