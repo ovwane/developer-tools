@@ -43,3 +43,4 @@
 * SublimeLinter + SublimeLinter-php : 	//PHP错误提示
 * phpfmt 				//格式化PHP代码,对齐代码
 * GitSavvy				//Full git and GitHub integration with Sublime Text 3.
+* Terminal                		//Launch terminals from the current file or the root project folder
