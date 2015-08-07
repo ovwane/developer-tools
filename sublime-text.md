@@ -1,10 +1,8 @@
 ### 配置文件：
 ```json
-# 包括：主题、打开新窗口关闭、unix结束标记、禁止更新、100字符换行、字体、缩进
+# 包括：打开新窗口关闭、unix结束标记、禁止更新、100字符换行、字体、缩进、高亮、编码
 
 {
-	"color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
-	"theme": "Spacegray Eighties.sublime-theme",
 	"open_files_in_new_window": false,
 	"default_line_ending": "unix",
 	"update_check": false,
@@ -12,7 +10,10 @@
 	"wrap_width": 100,
 	"font_size": 12,
 	"tab_size": 4,
-  "translate_tabs_to_spaces": true
+    "translate_tabs_to_spaces": true,
+    "highlight_line": true, 
+    "highlight_modified_tabs": true,    
+    "show_encoding": true
 }
 
 # DocBlockr 包配置（把注释名和参数分隔开）
