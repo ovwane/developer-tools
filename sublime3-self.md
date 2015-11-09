@@ -1,4 +1,4 @@
-```
+```json
 {
 	"theme": "Material-Theme-Darker.sublime-theme",
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
