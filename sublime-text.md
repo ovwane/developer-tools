@@ -39,3 +39,4 @@
 * SideBarEnhancements             	//侧边栏添加很多额外的功能
 * CodeFormatter 			//代码格式化
 * Terminal                		//命令行
+* SublimeLinter-php			//php验证错误（需安SublimeLinter）
