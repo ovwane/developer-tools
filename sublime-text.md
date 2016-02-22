@@ -40,3 +40,4 @@
 * CodeFormatter 			//代码格式化
 * Terminal                		//命令行
 * SublimeLinter-php			//php验证错误（需安SublimeLinter）
+* Alignment 				// 代码对齐
