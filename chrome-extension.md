@@ -60,3 +60,6 @@
 
 ### octotree
 > Browser extensions to display GitHub code in tree format
+
+### User-Agent Switcher for Google Chrome
+> User-Agent Switcher for Google Chrome switches between different user-agents.
