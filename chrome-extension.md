@@ -63,3 +63,6 @@
 
 ### User-Agent Switcher for Google Chrome
 > User-Agent Switcher for Google Chrome switches between different user-agents.
+
+### GitHub Helper 1.2.0
+> Get a better idea about github
