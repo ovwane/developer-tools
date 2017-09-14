@@ -3,5 +3,6 @@
 
 | 工具名称 | 连接     |
 | :------ | :------ |
-| chrome-extension | https://github.com/xiaobeicn/developer-tools/blob/master/chrome-extension.md |
-| sublime-text     | https://github.com/xiaobeicn/developer-tools/blob/master/sublime-text.md     |
+| chrome-extension  | https://github.com/xiaobeicn/developer-tools/blob/master/chrome-extension.md |
+| sublime-text      | https://github.com/xiaobeicn/developer-tools/blob/master/sublime-text.md     |
+| phpstorm-settings | https://github.com/xiaobeicn/developer-tools/blob/master/settings.jar      |
