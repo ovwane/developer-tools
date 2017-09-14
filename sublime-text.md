@@ -30,6 +30,7 @@
 
 # DocBlockr 包配置（把注释名和参数分隔开）
 
+```json
 {
 	"jsdocs_spacer_between_sections": true,
 	"jsdocs_per_section_indent": true
@@ -38,12 +39,12 @@
 
 ### 安装的包：
 
-* AutoFileName                         //自动补全文件路径
-* AllAutocomplete                      //搜索全部打开的标签页
+* AutoFileName                          //自动补全文件路径
+* AllAutocomplete                       //搜索全部打开的标签页
 * DocBlockr                             //注释
 * Markdown Preview                   	//预览
-* Emmet                                //html+css快速编写
+* Emmet                                 //html+css快速编写
 * SideBarEnhancements             	//侧边栏添加很多额外的功能
-* SublimeLinter                         // 代码检查
+* SublimeLinter                         //代码检查
 * SublimeLinter-php			//php验证错误（需安SublimeLinter）
 * CodeFormatter 			//代码格式化
