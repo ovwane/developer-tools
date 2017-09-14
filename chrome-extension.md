@@ -58,11 +58,26 @@
 ### 印象笔记·剪藏
 > 使用印象笔记扩展程序一键保存精彩网页内容到印象笔记帐户
 
-### octotree
-> Browser extensions to display GitHub code in tree format
+### WEB前端助手(FeHelper)
+> 包括字符串编解码、代码压缩、美化、JSON格式化、正则表达式、时间转换工具、二维码生成器、编码规范检测、页面性能检测、页面取色、Ajax接口调试
 
 ### User-Agent Switcher for Google Chrome
 > User-Agent Switcher for Google Chrome switches between different user-agents.
 
 ### GitHub Helper 1.2.0
 > Get a better idea about github
+
+### GitHub Plus
+> Display repo size, size of each file, download link and option to copy file contents
+
+### Octotree
+> Code tree for GitHub
+
+### Awesome Autocomplete for GitHub
+> Add instant search capabilities to GitHub's search bar.
+
+### Charset
+> 修改网站的默认编码
+
+### Enpass Password Manager
+> Enpass Password Manager extension for Google Chrome
