@@ -9,7 +9,7 @@ map <F3> :NERDTreeMirror<CR>
 map <F3> :NERDTreeToggle<CR>
 
 set number " Show number
-set ruler " Turn on the status bar
+set ruler " Show ruler
 
 set autoindent             " Indent according to previous line.
 set expandtab              " Use spaces instead of tabs.
