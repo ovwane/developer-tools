@@ -3,8 +3,13 @@ syntax on
 filetype plugin indent on
 
 execute pathogen#infect()
+
+autocmd VimEnter * NERDTree
 map <F3> :NERDTreeMirror<CR>
 map <F3> :NERDTreeToggle<CR>
+
+set number " Show number
+set ruler " Turn on the status bar
 
 set autoindent             " Indent according to previous line.
 set expandtab              " Use spaces instead of tabs.
@@ -31,12 +36,3 @@ set splitright             " Open new windows right of the current window.
 
 set cursorline             " Find the current line quickly.
 set wrapscan               " Searches wrap around end-of-file.
-set report      =0         " Always report changed lines.
-set synmaxcol   =200       " Only highlight the first 200 columns.
-
-set list                   " Show non-printable characters.
-if has('multi_byte') && &encoding ==# 'utf-8'
-  let &listchars = 'tab:▸ ,extends:❯,precedes:❮,nbsp:±'
-else
-  let &listchars = 'tab:> ,extends:>,precedes:<,nbsp:.'
-endif
