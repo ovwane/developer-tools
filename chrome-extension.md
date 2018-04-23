@@ -1,4 +1,4 @@
-### AdBlock
+### Adblock Plus
 > 最受欢迎的Chrome扩展，拥有超过4000万用户！屏蔽整个互联网上的广告。
 
 ### Axure RP Extension for Chrome
@@ -79,5 +79,15 @@
 ### Charset
 > 修改网站的默认编码
 
-### Enpass Password Manager
-> Enpass Password Manager extension for Google Chrome
+### Other
+* Sense (BS Fork)
+* dejavu
+* gem
+* mirage
+* ElasticSearch Head
+* 1Password extension
+* SiteMetrics SEO
+* Vue.js devtools
+* Xdebug helper
+
+
